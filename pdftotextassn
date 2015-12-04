@@ -1,0 +1,22 @@
+Commands:
+
+pdftotext cm15_aug17.pdf
+
+pdftotext cm15_nov2.pdf
+
+pdftotext cm15_oct19.pdf
+
+pdftotext cm15_sept8.pdf
+
+pdftotext cm15_sept21.pdf
+
+pdftotext cm15_oct5.pdf
+
+cat *.txt > all_text.txt
+
+• From there, I just opened up the all_text.txt doc in TextEdit, and searched through it that way.
+
+
+Answer:
+
+This semester, the city council set up a task force on community violence to address the wide range of factors that drive people toward violence, including systemic racism. Throughout the semester, the council also scheduled several open discussions on the issues. Members of a group called Race Matters spoke at the September 8, September 21, October 5, and November 2 meetings, and a few other community members spoke along the way. The conversations centered on creating a system of community policing rather than reactive policing. On Oct. 5, two council members voiced their support for Race Matters and said they would be doing more to educate themselves on the issues to get things going in a better direction.
